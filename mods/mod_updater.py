@@ -3,7 +3,7 @@ import requests
 
 
 def download(url: str):
-    dest_folder='../mods'
+    dest_folder='/mods'
     if not os.path.exists(dest_folder):
         os.makedirs(dest_folder)  # create folder if it does not exist
 
