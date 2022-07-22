@@ -51,7 +51,7 @@ download('https://media.forgecdn.net/files/2745/545/ProjectRed-1.12.2-4.9.4.120-
 download('https://media.forgecdn.net/files/2745/548/ProjectRed-1.12.2-4.9.4.120-integration.jar')
 download('https://media.forgecdn.net/files/2745/547/ProjectRed-1.12.2-4.9.4.120-fabrication.jar')
 download('https://media.forgecdn.net/files/2904/825/Pam%27s+HarvestCraft+1.12.2zg.jar')
-download('https://media.forgecdn.net/files/3755/665/ImmersiveEngineering-1.18.2-8.0.1-147.jar')
+download('https://media.forgecdn.net/files/2974/106/ImmersiveEngineering-0.12-98.jar')
 download('https://media.forgecdn.net/files/3382/321/immersivepetroleum-1.12.2-1.1.10.jar')
 download('https://media.forgecdn.net/files/3437/738/ImmersiveRailroading-1.12.2-forge-1.9.1.jar')
 download('https://media.forgecdn.net/files/3043/174/jei_1.12.2-4.16.1.302.jar')
