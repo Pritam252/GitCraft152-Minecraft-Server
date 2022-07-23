@@ -1,6 +1,5 @@
 @echo off
 echo Downloading Files:
-cd python.exe
 python mods/mod_updater.py
 
 echo Starting GitCraft152
