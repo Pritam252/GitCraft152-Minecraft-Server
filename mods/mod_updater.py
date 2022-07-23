@@ -1,3 +1,7 @@
+# MIT License, Gitcraft Mod installer
+# Place in the mods folder and run
+# python mod_updater.py
+
 import os
 import requests
 
