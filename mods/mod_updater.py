@@ -60,6 +60,7 @@ download('https://media.forgecdn.net/files/3382/321/immersivepetroleum-1.12.2-1.
 download('https://media.forgecdn.net/files/3437/738/ImmersiveRailroading-1.12.2-forge-1.9.1.jar')
 download('https://media.forgecdn.net/files/3043/174/jei_1.12.2-4.16.1.302.jar')
 # download('https://micdoodle8.com/new-builds/GC-1.12/280/MicdoodleCore-1.12.2-4.0.2.280.jar')
+download('https://media.forgecdn.net/files/2828/357/OpenComputers-MC1.12.2-1.7.5.192.jar')
 download('https://media.forgecdn.net/files/2825/260/TrackAPI-1.2.jar')
 download('https://media.forgecdn.net/files/3654/955/UniversalModCore-1.12.2-forge-1.1.4-2b81e7.jar')
 print('Done!')
