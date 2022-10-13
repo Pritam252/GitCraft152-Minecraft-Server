@@ -16,6 +16,10 @@ on:
         # Input has to be provided for the workflow to run
         required: true
 
+defaults:
+  run:
+    working-directory: .
+
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   # This workflow contains a single job called "greet"
@@ -35,4 +39,4 @@ jobs:
       - name: Install dependencies
         run: sudo apt update && sudo apt install openjdk-8-jdk
       - name: Start
-        run: bash -c dir && bash run.cmd
+        run: bash run.cmd
