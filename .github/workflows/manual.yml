@@ -30,7 +30,9 @@ jobs:
       # run: echo "Hello ${{ github.event.inputs.name }}"
   
   runcraft:
-    runs-on: windows
+    runs-on: ubuntu-latest
     steps:
+      - name: Install dependencies
+        run: sudo apt update && sudo apt install openjdk-8-jdk
       - name: Start
-        run: cmd /c run.cmd
+        run: bash run.cmd
