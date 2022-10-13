@@ -39,4 +39,4 @@ jobs:
       - name: Install dependencies
         run: sudo apt update && sudo apt install openjdk-8-jdk
       - name: Start
-        run: bash run.cmd
+        run: ./run.cmd
