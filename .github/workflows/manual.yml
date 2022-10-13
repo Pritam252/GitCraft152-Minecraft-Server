@@ -33,4 +33,4 @@ jobs:
     runs-on: windows
     steps:
       - name: Start
-        run: cmd
+        run: cmd /c run.cmd
